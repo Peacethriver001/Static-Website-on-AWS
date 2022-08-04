@@ -1,2 +1,1 @@
-CloudFront endpoint URL for my project:
-dz4b8zkgztun2.cloudfront.net
+This is my first project submission on the Udacity Cloud Developer Nanodegree ALX-T Program
