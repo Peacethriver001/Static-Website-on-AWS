@@ -1,3 +1,5 @@
+Static Website deployed on AWS
+
 CloudFront Domain Name URL for my project:
 https://d1own6486jzd2n.cloudfront.net
 
